@@ -1,6 +1,6 @@
 # 文本亂碼修復工具（Text/Excel/Word Decode & Fix + Translate GUI）
 
-> 一鍵修復常見的「亂碼」文本，支援 TXT/CSV/MD/HTML/JSON/YAML、XLSX、DOCX，並可選擇轉為繁簡/英/日。內建文字進度條，處理過程一目了然。
+> 歡迎使用文本亂碼修復工具，一鍵修復常見的「亂碼」文本，支援 TXT/CSV/MD/HTML/JSON/YAML、XLSX、DOCX，並可選擇轉為繁簡/英/日。內建文字進度條，處理過程一目了然。
 
 ---
 
